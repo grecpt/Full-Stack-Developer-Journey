@@ -10,7 +10,7 @@ The main objectives to create this repository:
 
 - outline the pathways for growth and development
 
-- provide inspirations for developers
+- provide inspirations for other developers
 
 # Front-End Development
 
@@ -18,7 +18,7 @@ I have started my Full-Stack Development by building my strong foundation with H
 
 ## Technologies that I aim to build experience
 
-I've choose to commit my 12 months to learn, build projects and gained experience with the technologies that are relevant to the market and limit the gap of a lot.
+I've choose to commit my 12 months to learn, build projects and gained experience with the technologies that are relevant to the market and limit the gap of learning irrelvant tools.
 
 | Skill             | Time Required | Learning Phase |
 | ----------------- | ------------- | -------------- |
