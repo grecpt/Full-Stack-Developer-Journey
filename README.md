@@ -1,8 +1,15 @@
 # Rex Makusia's Full Stack Developer Journey
 
-## Purpose
+## Table of Contents
 
-The main objectives to create this repository:
+- [Introduction](#introduction)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+
+## Introduction
+
+
+The main objectives of creating this repository:
 
 - document my steps that I will take towards the journey of becoming a Full-Stack-Developer.
 
@@ -12,11 +19,20 @@ The main objectives to create this repository:
 
 - provide inspirations for other developers
 
-# Front-End Development
+## Core Coding Foundation Concepts
+
+1. Clean Code
+2. SOLID Principles
+3. Clean Architecture
+4. Domain-Driven Design (DDD)
+5. Test-Driven Development (TDD)
+6. Continous Integration & Continous Delivery (CI/CD)
+
+## Front-End Development
 
 I have started my Full-Stack Development by building my strong foundation with HTML, CSS and JavaScript
 
-## Technologies that I aim to build experience
+## Font-End Development Tools
 
 I've choose to commit my 12 months to learn, build projects and gained experience with the technologies that are relevant to the market and limit the gap of learning irrelvant tools.
 
@@ -35,11 +51,11 @@ I've choose to commit my 12 months to learn, build projects and gained experienc
 | React Native      | 2 months      | Advanced       |
 | Total             | 1 Year        |                |
 
-# Back-End Development
+## Back-End Development
 
 Starting off with Front-End Development I move towards learning about Back-End Development
 
-## Technologies that I aim to build experience
+## Back-End Development Tools
 
 I've choose to commit my 12 months to learn, build projects and gained experience with the technologies that are relevant to the market and limit the gap of learning irrelvant tools.
 
