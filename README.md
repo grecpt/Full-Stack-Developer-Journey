@@ -34,3 +34,21 @@ I've choose to commit my 12 months to learn, build projects and gained experienc
 | Next.js           | 1.5 month     | Advanced       |
 | React Native      | 2 months      | Advanced       |
 | Total             | 1 Year        |                |
+
+# Back-End Development
+
+Starting off with Front-End Development I move towards learning about Back-End Development
+
+## Technologies that I aim to build experience
+
+I've choose to commit my 12 months to learn, build projects and gained experience with the technologies that are relevant to the market and limit the gap of learning irrelvant tools.
+
+| Skill                       | Time Required | Learning Phase |
+| :--------------------------:| :-----------: | :------------: |
+| Programming                 | 2 months      | Beginner       |
+| Git                         | 2 weeks       | Beginner       |
+| Data Structures & Algorithms| 1 month       | Beginner       |
+| Design Pattersn             | 2 months      | Intermediate   |
+| Database                    | 3 months      | Intermediate   |
+| Web Framework               | 2 months      | Advanced       |
+| Total                       | 11 Months     |                |
